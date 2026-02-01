@@ -1,4 +1,5 @@
 # learning
 learning git and github
 <br>
-Author - rohan
+Author - rohan bhaskaran
+
